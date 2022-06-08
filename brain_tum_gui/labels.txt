@@ -1,0 +1,4 @@
+0 No tumour
+1 meningioma
+2 glioma
+3 pituitary
